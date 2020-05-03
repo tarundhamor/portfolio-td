@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/td-v2-portfolio/static/css/main.37ad7eb3.chunk.css",
+    "main.js": "/td-v2-portfolio/static/js/main.56859d14.chunk.js",
+    "main.js.map": "/td-v2-portfolio/static/js/main.56859d14.chunk.js.map",
+    "runtime-main.js": "/td-v2-portfolio/static/js/runtime-main.3813ae7f.js",
+    "runtime-main.js.map": "/td-v2-portfolio/static/js/runtime-main.3813ae7f.js.map",
+    "static/js/2.e64004f5.chunk.js": "/td-v2-portfolio/static/js/2.e64004f5.chunk.js",
+    "static/js/2.e64004f5.chunk.js.map": "/td-v2-portfolio/static/js/2.e64004f5.chunk.js.map",
+    "index.html": "/td-v2-portfolio/index.html",
+    "precache-manifest.c8fb2fc5cd451e052176d47e1712df38.js": "/td-v2-portfolio/precache-manifest.c8fb2fc5cd451e052176d47e1712df38.js",
+    "service-worker.js": "/td-v2-portfolio/service-worker.js",
+    "static/css/main.37ad7eb3.chunk.css.map": "/td-v2-portfolio/static/css/main.37ad7eb3.chunk.css.map",
+    "static/js/2.e64004f5.chunk.js.LICENSE.txt": "/td-v2-portfolio/static/js/2.e64004f5.chunk.js.LICENSE.txt",
+    "static/media/darkPic.jpg": "/td-v2-portfolio/static/media/darkPic.d315cfbe.jpg",
+    "static/media/lightPic.jpg": "/td-v2-portfolio/static/media/lightPic.d315cfbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3813ae7f.js",
+    "static/js/2.e64004f5.chunk.js",
+    "static/css/main.37ad7eb3.chunk.css",
+    "static/js/main.56859d14.chunk.js"
+  ]
+}
