@@ -5,7 +5,7 @@ import PageInfoText from "../../Components/PageInfoText"
 import Details from "./Details"
 import Data from "./data"
 
-const text = <span>Portfolio</span>
+const text = <span>Projects</span>
 
 // const isSM = window.innerWidth < 576
 // const isMd = window.innerWidth < 769
