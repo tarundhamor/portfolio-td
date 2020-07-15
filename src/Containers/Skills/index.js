@@ -15,14 +15,13 @@ function Skills() {
 						<PageInfoText text={text} />
 
 						<Col md={12} className="mt-4">
-							<PageInfoSubText text="Full Stack Web Developer" />
+							<PageInfoSubText text="Full Stack Developer" />
 						</Col>
 					</Col>
 				</Row>
 				<Row>
 					<Col md={6} className="mt-5">
-
-					<CustomSpring time={500}>
+						<CustomSpring time={500}>
 							<div className="mt-3">
 								<h4>Javascript</h4>
 								<ProgressBar now={90} />
@@ -36,7 +35,6 @@ function Skills() {
 							</div>
 						</CustomSpring>
 
-					
 						<CustomSpring time={1100}>
 							<div className="mt-3">
 								<h4>NodeJs</h4>
@@ -44,7 +42,6 @@ function Skills() {
 							</div>
 						</CustomSpring>
 
-					
 						<CustomSpring time={1500}>
 							<div className="mt-3">
 								<h4>MySQL</h4>
@@ -58,7 +55,6 @@ function Skills() {
 							</div>
 						</CustomSpring>
 
-						
 						<CustomSpring time={2100}>
 							<div className="mt-3">
 								<h4>Git</h4>
@@ -89,7 +85,6 @@ function Skills() {
 							</div>
 						</CustomSpring>
 
-						
 						<CustomSpring time={1200}>
 							<div className="mt-3">
 								<h4>PHP</h4>
@@ -102,7 +97,6 @@ function Skills() {
 								<ProgressBar now={70} />
 							</div>
 						</CustomSpring>
-						
 					</Col>
 				</Row>
 			</Container>
