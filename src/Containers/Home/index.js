@@ -29,7 +29,6 @@ function Home({ thm }) {
 					<Col md={6} xs={{ span: 12, order: 2 }} className="mt-2">
 						<Col md={12} className="mt-4">
 							<PageInfoText text={text} />
-							
 						</Col>
 
 						<div className="mt-2 justify-content-center d-flex">
@@ -42,11 +41,15 @@ function Home({ thm }) {
 							</CustomSpring>
 
 							<CustomSpring time={1100}>
-								<Link to="/about">
-									<Button variant="outline-secondary" className="m-2">
-										Resume
-									</Button>
-								</Link>
+								<Button
+									variant="outline-secondary"
+									className="m-2"
+									href="https://drive.google.com/file/d/110qRhYmbGboiMaawdv-UJF2TuXfFeR17/view?usp=sharing"
+									target="_blank"
+									download
+								>
+									Resume
+								</Button>
 							</CustomSpring>
 						</div>
 					</Col>
@@ -64,7 +67,7 @@ function Home({ thm }) {
 }
 
 Home.propTypes = {
-	thm: PropTypes.oneOf(["undefined", true, false]).isRequired
+	thm: PropTypes.oneOf(["undefined", true, false]).isRequired,
 }
 
 export default Home
